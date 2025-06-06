@@ -1,0 +1,16 @@
+# Ignore node modules
+node_modules/
+
+# Ignore system files
+.DS_Store
+*.log
+.vscode/
+.idea/
+*.swp
+
+# Ignore OS folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+
